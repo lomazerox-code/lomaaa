@@ -1,0 +1,3 @@
+# ads.txt — غير مُستخدَم حالياً (الموقع يعتمد على Google Ads للإعلان وليس AdSense).
+# عند تفعيل Google AdSense مستقبلاً، أضف السطر التالي برقم الناشر الحقيقي:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

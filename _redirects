@@ -1,0 +1,4 @@
+# ملف _redirects خاص بـ Netlify/Cloudflare Pages
+# على Hostinger (Apache) يُستخدم ملف .htaccess بدلاً منه
+
+/*    /index.html    200

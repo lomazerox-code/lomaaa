@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almo3tmd-19580.com/sitemap.xml
